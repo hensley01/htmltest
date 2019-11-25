@@ -1,0 +1,13 @@
+body {
+background-color: yellowgreen;
+}
+nav {
+    background-color: red;
+}
+footer {
+    padding-top: 1px;
+    background-color: black;
+}
+section {
+    background-color: green;
+}

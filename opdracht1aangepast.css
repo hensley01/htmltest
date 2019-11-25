@@ -1,0 +1,23 @@
+body {
+    background-color: yellowgreen;
+    padding: 20px;
+}
+nav {
+    background-color: red;
+}
+footer {
+    background-color: black;
+    padding: 20px;
+}
+section {
+    background-color: green;
+    border: 1px solid black;
+
+}
+header {
+    margin-bottom: 30px;
+}
+div.wrapper{
+    width: 960px;
+    margin:auto;
+}
