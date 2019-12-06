@@ -1,0 +1,51 @@
+* {
+    align-self: center;
+}
+
+body {
+    margin: 0px;
+    padding: 30px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 16% 34% 10% 40%;
+}
+
+div.form-group {
+    width: 300px;
+    display: flex;
+}
+
+h1 {
+    grid-column: 1/5;
+}
+
+.eten {
+    display: inline-flex;
+    grid-column: 4/5;
+}
+
+.textinputs {
+    width: 300px;
+    border: solid 1px cornflowerblue;
+}
+
+input.eten {
+    width: 20px;
+    height: 20px;
+}
+
+.textarea {
+    width: 350px;
+    height: 120px;
+}
+#geslacht {
+    display: flex;
+}
+
+
+
+
